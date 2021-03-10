@@ -28,6 +28,8 @@
 #### I love Working With:
 <img align="left" alt="Vue" width="26px" src="https://pics.freeicons.io/uploads/icons/png/191213921552037062-512.png" />
 <img align="left" alt="Rails" width="26px" src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" />
+
+<br />
 #### Learning:
 <img align="left" alt="Rails" width="26px" src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
@@ -44,6 +46,6 @@
   <img align="left" alt="yigiterinc's GitHub Stats" src="https://github-readme-stats-seven-indol.vercel.app
 /api?username=yigiterinc&show_icons=true&hide_border=true" />
 
-[website]: https://erinc.io
+[website]: https://erinc.iozr
 [linkedin]: https://linkedin.com/in/yigit-erinc/
 [twitter]: https://twitter.com/erinccodes

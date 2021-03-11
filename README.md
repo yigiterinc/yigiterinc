@@ -22,6 +22,9 @@
 <img align="left" alt="Vue" width="26px" src="https://pics.freeicons.io/uploads/icons/png/191213921552037062-512.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9484177861548141924-512.png" />
+<img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png"/>
+<img align="left" alt="Spring" width="26px" src="https://pics.freeicons.io/uploads/icons/png/11755973651551952107-512.png"/>
+<img align="left" alt="Firebase" width="26px" src="https://pics.freeicons.io/uploads/icons/png/6247864081536298180-512.png"/>
 <br />
 
 #### I love Working With:
@@ -32,17 +35,16 @@
 
 #### Learning:
 <img align="left" alt="Rails" width="26px" src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" />
+<img align="left" alt="Ruby" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4090158241551942644-512.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Ruby" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4090158241551942644-512.png" />
 
 <br />
 <br />
 
-  <img align="center" src="https://my-readme-stats-yigiterinc.vercel.app
-/api?username=yigiterinc&show_icons=true&hide_border=true&theme=material-palenight" alt="Yigit's github stats" />
-  <img align="center" src="https://my-readme-stats-yigiterinc.vercel.app/api/top-langs/?username=yigiterinc&layout=compact&theme=material-palenight" />
+<img align="left" src="https://my-readme-stats-yigiterinc.vercel.app/api?username=yigiterinc&show_icons=true&hide_border=true&theme=synthwave" />
+<img align="center" src="https://my-readme-stats-yigiterinc.vercel.app/api/top-langs/?username=yigiterinc&layout=compact&theme=synthwave" />
 
 [website]: https://erinc.io
 [linkedin]: https://linkedin.com/in/yigit-erinc/

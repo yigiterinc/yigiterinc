@@ -1,9 +1,11 @@
 ### Hi there, I'm Yigit 👋
 
-[![Website](https://img.shields.io/website?label=erinc.io&style=for-the-badge&url=https%3A%2F%erinc.io)](https://erinc.io)
+## I'm a MSc. Student at TUM, Software Engineer, Blogger and a student for a lifetime
 
-## I'm a MSc. Student, Software Engineer, Blogger and a student for a lifetime
-
+- 🔭  I'm currently working on my side projects
+- 👯  I’m looking to collaborate with other people for open source Vue, JS or Rails projects
+- 🥅  2021 Goals: Improve my skills both practically as a Full Stack Developer by working on side projects and also theoretically as a MSc. student
+- ⚡ Fun fact: I am father of 5 cats all of which are extremely adorable 
 
 ### Connect with me:
 
@@ -25,10 +27,12 @@
 <img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png"/>
 <img align="left" alt="Spring" width="26px" src="https://pics.freeicons.io/uploads/icons/png/11755973651551952107-512.png"/>
 <img align="left" alt="Firebase" width="26px" src="https://pics.freeicons.io/uploads/icons/png/6247864081536298180-512.png"/>
+<img align="left" alt="AWS" width="26px" src="https://pics.freeicons.io/uploads/icons/png/18181230061536126577-512.png"/>
 <br />
 
 #### I love Working With:
 <img align="left" alt="Vue" width="26px" src="https://pics.freeicons.io/uploads/icons/png/191213921552037062-512.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Rails" width="26px" src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" />
 
 <br />

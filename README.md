@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="erinc.io" width="22px" src="https://pics.freeicons.io/uploads/icons/png/15488775861600702617-512.png" />][website]
+[<img align="left" alt="erinc.io" width="22px" src="https://cdn0.iconfinder.com/data/icons/business-and-finance-colored-3/64/business-and-finance-colored-3-11-512.png" />][website]
 [<img align="left" alt="yigiterinc | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
-[<img align="left" alt="yigiterinc | Twitter" width="22px" src="https://pics.freeicons.io/uploads/icons/png/5959933821530099343-512.png" />][twitter]
+[<img align="left" alt="yigiterinc | Twitter" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16438666591561032650-512.png" />][twitter]
 
 <br />
 

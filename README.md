@@ -3,9 +3,8 @@
 ## I'm a MSc. Student at TUM, Software Engineer, Blogger and a student for a lifetime
 
 - 🔭  I'm currently working on my side projects
-- 👯  I’m looking to collaborate with other people for open source Vue, JS or Rails projects
 - 🥅  2021 Goals: Improve my skills both practically as a Full Stack Developer by working on side projects and also theoretically as a MSc. student
-- ⚡ Fun fact: I am father of 5 cats all of which are extremely adorable 
+- ⚡ Fun fact: I am father of 4 cats all of which are extremely adorable 
 
 ### Connect with me:
 

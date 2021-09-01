@@ -16,9 +16,10 @@
 
 ### Languages and Tools:
 
-#### I can Use:
+#### Technologies:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Vue" width="26px" src="https://pics.freeicons.io/uploads/icons/png/191213921552037062-512.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
@@ -29,19 +30,11 @@
 <img align="left" alt="AWS" width="26px" src="https://pics.freeicons.io/uploads/icons/png/18181230061536126577-512.png"/>
 <br />
 
-#### I love Working With:
+#### Current Favorites:
 <img align="left" alt="Vue" width="26px" src="https://pics.freeicons.io/uploads/icons/png/191213921552037062-512.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Rails" width="26px" src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" />
-
-<br />
-
-#### Learning:
-<img align="left" alt="Rails" width="26px" src="https://pics.freeicons.io/uploads/icons/png/2219791841551942639-512.png" />
-<img align="left" alt="Ruby" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4090158241551942644-512.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png"/>
+<img align="left" alt="Spring" width="26px" src="https://pics.freeicons.io/uploads/icons/png/11755973651551952107-512.png"/>
 
 <br />
 <br />

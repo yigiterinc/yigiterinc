@@ -40,8 +40,8 @@
 <br />
 <br />
 
-<img align="left" src="https://my-readme-stats-yigiterinc.vercel.app/api?username=yigiterinc&show_icons=true&theme=synthwave" />
-<img align="center" src="https://my-readme-stats-yigiterinc.vercel.app/api/top-langs/?username=yigiterinc&layout=compact&theme=synthwave" />
+<img align="left" src="https://github-readme-stats-vert-eta.vercel.app/api?username=yigiterinc&show_icons=true&theme=synthwave" />
+<img align="center" src="https://github-readme-stats-vert-eta.vercel.app/api/top-langs/?username=yigiterinc&layout=compact&theme=synthwave" />
 
 [website]: https://erinc.io
 [linkedin]: https://linkedin.com/in/yigit-erinc/

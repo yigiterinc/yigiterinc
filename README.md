@@ -1,6 +1,6 @@
 ### Hi there, I'm Yigit 👋
 
-## I'm a Software Engineer, MSc. Student at TUM and Blogger
+## I'm a Software Engineer, MSc. Student at TUM
 
 - 🔭  I am currently improving my AWS skills by building applications on cloud and deepening my knowledge about Docker 🐳  I am also learning more about Deep Learning in my MSc. studies.
 - 🥅  2022 Goals: Get AWS certified and be able to build, manage, deploy and monitor applications on cloud ☁️ and release at least 2 side-projects, publish blog posts as often as I can.

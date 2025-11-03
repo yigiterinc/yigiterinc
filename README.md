@@ -1,3 +1,1 @@
-### Hi there, I'm Yigit 👋
-
-## I'm a Software Engineer at Dott from Berlin
+### Hi there, I'm Yigit, a Software Engineer at Dott from Berlin
